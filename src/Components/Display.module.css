@@ -1,0 +1,14 @@
+.displayModule{
+  margin: 10px;
+  width: 90%;
+  height: 20%;
+  font-size: 50px;
+  border: none;
+  outline: none;
+  margin-top: 10px;
+text-align: right;
+
+background-color: transparent;
+color: white;
+box-shadow: -40px -40px 60px rgba(255, 255, 255, 0.1), 25px 25px 60px rgba(0, 0, 0, 0.2)
+}

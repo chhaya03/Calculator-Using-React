@@ -1,0 +1,19 @@
+
+.App{
+  height: 100vh;
+  width: 100wh;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ padding-block: 20px;
+}
+
+.head{
+ text-align: center;
+  font-size: smaller;
+  font-weight: 900;
+  margin-top: 10px;
+  color: white;
+}
+
+
